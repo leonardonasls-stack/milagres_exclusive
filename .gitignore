@@ -4,5 +4,7 @@ dist/
 .env.local
 .env.*.local
 paletas-preview/
+*digest*.md
+digest.*
 .DS_Store
 Thumbs.db
